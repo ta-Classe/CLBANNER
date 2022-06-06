@@ -53,13 +53,13 @@
 }
 
 /* 𝐌𝐖𝐒 | 𝐈𝐑𝐎𝐍 𝐖𝐀𝐑 [SERVER-ID](688693759432458323) */
-[aria-label*="𝐌𝐖𝐒 | 𝐈𝐑𝐎𝐍 𝐖𝐀𝐑"] {
+[aria-label*="N1x | 𝐋𝐄𝐀𝐆𝐔𝐄"] {
 
 	--BannerBG-Header-Height: 150px !important;
 	--BannerBG-Header-Padding: 16px !important;
 	--BannerBG-Header-Box-Shadow: none !important;
 
-	--BannerBG-Server-Banner: url("http://i.picpar.com/BSwd.gif") !important;
+	--BannerBG-Server-Banner: url("https://i.pinimg.com/736x/7b/1c/73/7b1c73dd17a4b134abac8bfd6b4e53a6.jpg") !important;
 	--BannerBG-Server-Width: 100% !important;
 	--BannerBG-Server-Height: 100% !important;
 	--BannerBG-Server-Top: 0 !important;
