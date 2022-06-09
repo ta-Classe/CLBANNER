@@ -294,3 +294,30 @@
 	--utility-padding: 90px; 
 
 }
+
+/* Template Banner */
+[aria-label*="N1x | 𝐋𝐄𝐀𝐆𝐔𝐄"] {
+
+	--BannerBG-Header-Height: 150px !important;
+	--BannerBG-Header-Padding: 16px !important;
+	--BannerBG-Header-Box-Shadow: none !important;
+
+	--BannerBG-Server-Banner: url("https://media.discordapp.net/attachments/922210076838739978/922240077738942464/unknown.png") !important;
+	--BannerBG-Server-Width: 100% !important;
+	--BannerBG-Server-Height: 100% !important;
+	--BannerBG-Server-Top: 0 !important;
+	--BannerBG-Server-Left: 0 !important;
+	--BannerBG-Server-Z-Index: -1 !important;
+	--BannerBG-Server-Position: absolute !important;
+
+	/* CreArts V2 Vars */
+	--BBG-CreArts-Header-Height: 135px;
+	--BBG-CreArts-Header-Padding: 80px;
+	--BBG-CreArts-Header-Z-Index: 2;
+	--BBG-CreArts-Header-Opacity-1: 1;
+	--BBG-CreArts-Header-Opacity-0: 0;
+	--BBG-CreArts-Header-Transition: none;
+	--BBG-CreArts-Header-Color: var(--interactive-active);
+	--BBG-CreArts-Header-Radius: var(--radius-primary);
+
+}
