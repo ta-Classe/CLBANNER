@@ -1,5 +1,6 @@
 [style*='969009852112306267'],
-[aria-label*="N1x | 𝐋𝐄𝐀𝐆𝐔𝐄"]+*,
+[style*='969009852112306267'],
+[aria-label*="N1x | 𝐋𝐄𝐀𝐆𝐔𝐄"]+*, 
 [aria-label*="N1x | 𝐋𝐄𝐀𝐆𝐔𝐄"] {
 
 	--server-background-top: 0;
@@ -7,18 +8,17 @@
 	--server-background-height: 152px;
 	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
 
-	--utility-tooltip-margin: 6px;
-	--utility-tooltip-pading: 1px 8px 0px 8px;
-	--server-tooltip: block;
-	--server-tooltip-text: "Ligue de la Nation Imperiale";
-	--server-badge: ;  url("https://itsjustjoshdev.github.io/src/assets/favcon/crown.png")
-	--server-background: url("https://i.pinimg.com/originals/6b/d7/02/6bd702e4c22bf96c804f3be70ca8bb1f.jpg");
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://c4.wallpaperflare.com/wallpaper/88/832/855/assassin-s-creed-assassin-s-creed-odyssey-statue-marble-wallpaper-preview.jpg");
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
 
 }
-
 [style*='858830126711046177'],
 [style*='888837929789710387'],
 [aria-label*="Archcraft"]+*, 
