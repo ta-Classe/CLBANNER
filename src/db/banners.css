@@ -12,17 +12,17 @@
 	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
-	--server-badge: ; /* url("") */
+	--server-badge: ; url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7bd2b6b-a949-442f-b666-caa3b59650d0/df1eqhk-a0e31547-8437-4be2-bd31-553c2c448195.png/v1/fill/w_1280,h_1280,strp/tokyo_revengers_icon___chifuyu_matsuno_by_bytayta_df1eqhk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2Q3YmQyYjZiLWE5NDktNDQyZi1iNjY2LWNhYTNiNTk2NTBkMFwvZGYxZXFoay1hMGUzMTU0Ny04NDM3LTRiZTItYmQzMS01NTNjMmM0NDgxOTUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsQ9hA2mQ64nKbK2212inTdlbnQxhWItHEfHsmX9Y10")
 	--server-background: url("https://c4.wallpaperflare.com/wallpaper/751/610/360/assassin-s-creed-brotherhood-video-games-wallpaper-preview.jpg");
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
 
 }
-[style*='858830126711046177'],
-[style*='888837929789710387'],
-[aria-label*="Archcraft"]+*, 
-[aria-label*="Archcraft"] {
+[style*='916416921379958884'],
+[style*='916416921379958884'],
+[aria-label*="Serveur de ⚔🐲 ㄚㄖᎶ卂ㄒ卂Ꮆ卂 🦾🍥"]+*, 
+[aria-label*="Serveur de ⚔🐲 ㄚㄖᎶ卂ㄒ卂Ꮆ卂 🦾🍥"] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -33,8 +33,8 @@
 	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
-	--server-badge: ; /* url("") */
-	--server-background: url("https://i.imgur.com/c1eTK8b.png");
+	--server-badge: ; url("https://static.thenounproject.com/png/34322-200.png")
+	--server-background: url("https://media1.giphy.com/media/hKafco7mFwBioBxqFT/200.gif");
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
