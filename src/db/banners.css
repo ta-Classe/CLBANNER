@@ -40,9 +40,9 @@
 
 }
 
-[style*='820007082937942048'],
-[aria-label*="Flashcord"]+*,
-[aria-label*="Flashcord"] {
+[style*='942900758750326834'],
+[aria-label*="𝐕𝐄𝐊𝐓𝐀 𝐄𝐌𝐏𝐈𝐑𝐄 | 🔥"]+*,
+[aria-label*="𝐕𝐄𝐊𝐓𝐀 𝐄𝐌𝐏𝐈𝐑𝐄 | 🔥"] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -54,16 +54,16 @@
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
 	--server-badge: ; /* url("") */
-	--server-background: url("https://i.imgur.com/D0F2m68.png"); /* Tehehe Don't Tell */
+	--server-background: url("https://w0.peakpx.com/wallpaper/832/839/HD-wallpaper-for-helghan-helghast-grunge-helghan-killzone.jpg"); /* Tehehe Don't Tell */
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
 
 }
 
-[aria-label*="CreArts | Community"]+*,
-[aria-label*="CreArts | Community"],
-[style*='534376415202639903'] {
+[aria-label*="Imperial Vekta | Officer"]+*,
+[aria-label*="Imperial Vekta | Officer"],
+[style*='940356528966336522'] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -77,7 +77,7 @@
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
 	--server-badge: ; /* url("") */
-	--server-background: url("https://i.imgur.com/nOPFf0m.png");
+	--server-background: url("https://i.pinimg.com/originals/26/57/4c/26574cc0ae902f7c16e545b1fd771896.jpg");
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
