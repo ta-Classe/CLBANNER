@@ -44,8 +44,8 @@
 }
 
 [style*='942900758750326834'],
-[aria-label*="𝐕𝐄𝐊𝐓𝐀 𝐄𝐌𝐏𝐈𝐑𝐄 | 🔥"]+*,
-[aria-label*="𝐕𝐄𝐊𝐓𝐀 𝐄𝐌𝐏𝐈𝐑𝐄 | 🔥"] {
+[aria-label*="| ROG | 𝐓𝐇𝐄 𝐑𝐎𝐆𝐔𝐄 𝐄𝐌𝐏𝐈𝐑𝐄"]+*,
+[aria-label*="| ROG | 𝐓𝐇𝐄 𝐑𝐎𝐆𝐔𝐄 𝐄𝐌𝐏𝐈𝐑𝐄"] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -57,7 +57,7 @@
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
 	--server-badge: ; /* url("") */
-	--server-background: url("https://w0.peakpx.com/wallpaper/832/839/HD-wallpaper-for-helghan-helghast-grunge-helghan-killzone.jpg"); /* Tehehe Don't Tell */
+	--server-background: url("https://media.discordapp.net/attachments/942900764450386035/989867130440785930/Banners_copie.png?width=901&height=676"); /* Tehehe Don't Tell */
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
