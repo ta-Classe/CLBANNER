@@ -44,8 +44,8 @@
 }
 
 [style*='942900758750326834'],
-[aria-label*="| ROG | 𝐓𝐇𝐄 𝐑𝐎𝐆𝐔𝐄 𝐄𝐌𝐏𝐈𝐑𝐄"]+*,
-[aria-label*="| ROG | 𝐓𝐇𝐄 𝐑𝐎𝐆𝐔𝐄 𝐄𝐌𝐏𝐈𝐑𝐄"] {
+[aria-label*="Roman Empire ."]+*,
+[aria-label*="Roman Empire ."] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -64,9 +64,9 @@
 
 }
 
-[aria-label*="Imperial Vekta | Officer"]+*,
-[aria-label*="Imperial Vekta | Officer"],
-[style*='940356528966336522'] {
+[aria-label*="Arceus | Corporation"]+*,
+[aria-label*="Arceus | Corporation"],
+[style*='1010516252608958504'] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
