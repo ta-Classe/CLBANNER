@@ -44,8 +44,8 @@
 }
 
 [style*='942900758750326834'],
-[aria-label*="Roman Empire ."]+*,
-[aria-label*="Roman Empire ."] {
+[aria-label*="𝐓𝐇𝐄 𝐒𝐎𝐕𝐈𝐄𝐓 𝐔𝐍𝐈𝐎𝐍"]+*,
+[aria-label*="𝐓𝐇𝐄 𝐒𝐎𝐕𝐈𝐄𝐓 𝐔𝐍𝐈𝐎𝐍"] {
 
 	--server-background-top: 0;
 	--server-background-left: 0;
@@ -57,7 +57,7 @@
 	--server-tooltip: ; /* block */
 	--server-tooltip-text: ; /* "Text" */
 	--server-badge: ; /* url("") */
-	--server-background: url("https://media.discordapp.net/attachments/1026964495882539050/1034429207717101669/EM_character.png?width=1084&height=610"); /* Tehehe Don't Tell */
+	--server-background: url("https://media.discordapp.net/attachments/1038908673512198204/1039304273823006820/MS.png"); /* Tehehe Don't Tell */
 
 	/* CreArts v3 */
 	--utility-padding: 90px; 
